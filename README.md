@@ -75,7 +75,7 @@
     We needed this to convert from binary to human readable. We only wanted printable characters so we had to make sure that we did not convert ASCII values > 127 and < 31.
 
 #### Known Deficiencies and Bugs:
-**Known Bugs and Deficiencies**
+
     There are currently no known bugs nor deficiencies with text and binary files.
 
 #### Lessons Learned:

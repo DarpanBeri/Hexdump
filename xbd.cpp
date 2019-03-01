@@ -1,15 +1,11 @@
 /*********************************************************************
  Name: Zach Selchau
- username: cssc0418
- Project: CS530 Assignment 1
  File: xbd.cpp
  Notes: The sourcecode file containing the functions and code required to run a hex/binarydump program.
 
 
 
  Name: Darpan Beri
- username: cssc0429
- Project: CS530 Assignment 1
  File: xbd.cpp
   Notes: The sourcecode file containing the functions and code required to run a hex/binarydump program.
 **********************************************************************/

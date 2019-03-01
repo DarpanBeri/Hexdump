@@ -1,15 +1,11 @@
 /*********************************************************************
  Name: Zach Selchau
- username: cssc0418
- Project: CS530 Assignment 1
  File: xbd.hpp
  Notes: Header file containing required libraries and function prototypes.
 
 
 
  Name: Darpan Beri
- username: cssc0429
- Project: CS530 Assignment 1
  File: xbd.hpp
   Notes: Header file containing required libraries and function prototypes.
 **********************************************************************/
